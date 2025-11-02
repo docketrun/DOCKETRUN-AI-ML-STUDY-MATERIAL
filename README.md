@@ -13,7 +13,7 @@ These repositorys contains educational notebooks for AI and ML.
 
 | Notebook Name                   | Open in Colab                                                                                     |
 |---------------------------------|--------------------------------------------------------------------------------------------------|
-| Python                | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/docketrun/DOCKETRUN-AI-ML-STUDY-MATERIAL/blob/main/Notebooks/Python.ipynb) |
+| Python                | [![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/docketrun/DOCKETRUN-AI-ML-STUDY-MATERIAL/blob/main/Notebooks/Python.ipynb](https://colab.research.google.com/drive/1CYAI39-il--SUKkznJ4o4LA7LQcnpwzv?usp=sharing)) |
 | Supervised learning ( classification )               | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/docketrun/DOCKETRUN-AI-ML-STUDY-MATERIAL/blob/main/Notebooks/supervised_learning.ipynb) |
 | Image Processing                | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/docketrun/DOCKETRUN-AI-ML-STUDY-MATERIAL/blob/main/Notebooks/Image_processing.ipynb) |
 | Yolo v8 model training          | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/docketrun/DOCKETRUN-AI-ML-STUDY-MATERIAL/blob/main/Notebooks/Yolo_v8_model_training.ipynb) |
